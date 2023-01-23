@@ -1,0 +1,3 @@
+# Arrays
+
+An array is a data structure that stores a collection of elements, typically of the same data type. Each element can be accessed by its index, and the elements are stored in contiguous memory locations. Arrays can store different types of data such as integers, strings, and objects, and are commonly used for tasks such as sorting, searching, and manipulating data. This repository contains my solutions to array-related challenges from the book "Daily Coding Problem" by Alex Miller and Lawrence Wu. The solutions are implemented in Python.
