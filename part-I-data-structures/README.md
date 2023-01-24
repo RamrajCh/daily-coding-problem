@@ -5,3 +5,4 @@ This repository contains my solutions to the Data Structure Challenges presented
 ## Table of contents
 1. Arrays
     - Get product of all other elements
+    - Locate smallest window to be sorted
