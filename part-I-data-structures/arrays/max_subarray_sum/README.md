@@ -17,12 +17,12 @@ Explanation: `[1,2,2,3]` has the largest sum = `7`.
 
 Input: `[-1,-2,-3,-4,-5]`
 
-Output: `-1`
+Output: `0`
 
-Explanation: `[-1]` has the largest sum = `-1`.
+Explanation: Sum must always be positive.
 
 ## Note
 
 - The input array may contain both positive and negative numbers.
 - The subarray with the largest sum may or may not be at the beginning or end of the input array.
-- If all the numbers in the input array are negative, the function should return the largest negative number.
+- If all the numbers in the input array are negative, the function should return 0.
