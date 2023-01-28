@@ -2,7 +2,7 @@ def main(S):
     res = [0 for _ in range(len(S))]
     
     for i in range(len(S)):
-        for j in range(i, len(S)):
+        for j in range(i+1, len(S)):
             if S[j] < S[i]: res[i] += 1
     
     print(res)
