@@ -6,3 +6,5 @@ This repository contains my solutions to the Data Structure Challenges presented
 1. Arrays
     - Get product of all other elements
     - Locate smallest window to be sorted
+    - Calculate maximum subarray sum
+    - Find number of smaller elements to the right
