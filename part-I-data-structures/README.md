@@ -8,3 +8,6 @@ This repository contains my solutions to the Data Structure Challenges presented
     - Locate smallest window to be sorted
     - Calculate maximum subarray sum
     - Find number of smaller elements to the right
+
+2. Strings
+    - Find anagram indices
